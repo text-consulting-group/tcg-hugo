@@ -7,6 +7,7 @@
 ```
 git submodule update --init --recursive
 ```
+3. 깃헙 개인 계정으로 소스 위치를 옮깁니다.(netlify free price policy)
 
 ## build with netlify
 - content/texts
@@ -31,3 +32,5 @@ git submodule update --init --recursive
 ```
 
 ## Cloudflare R2
+- https://private.textconsulting.io/폴더이름/파일이름
+- worker logic에 따라 bucket 이름을 적지 않아도 됨

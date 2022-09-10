@@ -29,10 +29,6 @@ description = "Text | Code | Digital | Research"
     name = "About TCG"
     url = "/about/"
     weight = 4
-  [[menu.main]]
-    name = "Shop"
-    url = "https://textconsulting.io"
-    weight = 2   
   [[menu.social]]
     identifier = "github"
     name = "Github-tcg"
