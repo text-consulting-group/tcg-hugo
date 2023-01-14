@@ -2,7 +2,7 @@
 
 ## TCG Text 를 작성합니다. 
 
-1. hugo v0.98.0+extended / netlify
+1. hugo v0.109.0+extended/ netlify
 2. twentynineteen-hugo theme를 불러옵니다.
 ```
 git submodule update --init --recursive
